@@ -10,4 +10,6 @@
 -   ⚡  Fun fact: Right now I am reading You Don't Know Js by Kyle Simpson
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsrivastava0103&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsrivastava0103&&show_icons=true&icon_color=000000&text_color=3b87ee&bg_color=ffffff">
+
+**Languages and Tools Used:**
