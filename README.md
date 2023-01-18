@@ -1,7 +1,7 @@
 
 ### Hola, I'm Ankit Srivastava!  👋
 
--   🔭  I’m currently working as a Developer at @PublicisSapient
+-   🔭  I’m currently working as a Developer at @Airtel
 -   🌱  I’m currently learning ReactJs and NodeJs
 -   👯  I’m looking to collaborate on Fullstack Projects
 -   💬  Ask me about JavaScript or Any Tech Related Stuffs
