@@ -10,7 +10,7 @@
 -   ⚡  Fun fact: I know how to solve a rubik's cube.
 
 
-  // <img src="https://github-readme-stats.vercel.app/api?username=ankitsrivastava0103&&show_icons=true&icon_color=000000&text_color=3b87ee&bg_color=ffffff"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsrivastava0103&&show_icons=true&icon_color=000000&text_color=3b87ee&bg_color=ffffff"> 
 
 **Languages and Tools Used:**
 	Java, Python, JavaScript , ReactJs, VS Editor
